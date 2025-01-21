@@ -12,6 +12,7 @@ import {
     Keyboard,
     Image,
     Linking,
+    Platform,
 } from "react-native";
 import { asyncSignUp } from "../helpers/auth";
 import RNDatePicker from "@react-native-community/datetimepicker";
